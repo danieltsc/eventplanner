@@ -19,7 +19,7 @@ Follow these steps to run the Event Planner project:
     npm start
     ```
 
-3. Go to the `frontend` folder and run the following commands:
+3. Go to the `client` folder and run the following commands:
 
     ```
     npm install
