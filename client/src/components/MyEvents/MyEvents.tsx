@@ -1,7 +1,4 @@
-import { Box, Typography, useMediaQuery } from "@mui/material";
-import StarIcon from "@mui/icons-material/Star";
-import StarBorderIcon from "@mui/icons-material/StarBorder";
-import { useEffect, useState } from "react";
+import { Box, Typography } from "@mui/material";
 import EventPreview from "../EventPreview/EventPreview";
 import { Event, useEvents } from "../../context/events";
 

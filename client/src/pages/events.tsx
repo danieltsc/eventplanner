@@ -1,9 +1,8 @@
-import { Box, Button, SxProps, Typography, useMediaQuery } from "@mui/material";
+import { Box, Button, Typography, useMediaQuery } from "@mui/material";
 
-import { CSSProperties, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import {
-  Categories,
   Event,
   EventActionType,
   useEvents,

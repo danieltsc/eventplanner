@@ -1,5 +1,4 @@
-import { Box, Typography, useMediaQuery } from "@mui/material";
-import { Categories } from "../../context/events";
+import { Box, Typography } from "@mui/material";
 
 const EventFilters = () => {
   const styles: StylesProps = {
