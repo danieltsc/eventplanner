@@ -4,6 +4,7 @@
 
 Follow these steps to run the Event Planner project:
 
+### You might need to install 'ts-node' globally. Use 'npm i -g ts-node' to do that
 ! If you encounter any issues creating postgres tables, go to app.ts:30 and set ```force: true ```
 
 1. Go to the `__dev_resources` directory (inside backend folder) and run the following command to start the database with Docker:
