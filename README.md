@@ -6,7 +6,7 @@ Follow these steps to run the Event Planner project:
 
 ! If you encounter any issues creating postgres tables, go to app.ts:30 and set ```force: true ```
 
-1. Go to the `__dev_resources` directory and run the following command to start the database with Docker:
+1. Go to the `__dev_resources` directory (inside backend folder) and run the following command to start the database with Docker:
 
     ```
     docker-compose up -d
